@@ -31,6 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MS Copilot](https://copilot.microsoft.com/chats/AbjxXVTFWDzwoJ3TDUnBP)
+- [Google Gemini](https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
