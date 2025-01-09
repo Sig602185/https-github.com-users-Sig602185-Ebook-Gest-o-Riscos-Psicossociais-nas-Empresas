@@ -43,7 +43,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um roteiro para um Ebook para [gestão de riscos psicossociais nas empresas] com 7 tópicos , incluindo título, sub-título, nome dos capítulos e conteúdo enxuto, com linguagem voltada para gestores de empresa                                                        |
 | resumos | Escreva um texto enxuto para cada um dos capítulos acima |
-| conteúdo | Crie um texto de uma página para cada um dos capítulos para ser lido posteriormente num podcas |
+| conteúdo | Crie um texto de uma página para cada um dos capítulos para ser lido posteriormente num podcast |
 
 
 MS Copilot：
