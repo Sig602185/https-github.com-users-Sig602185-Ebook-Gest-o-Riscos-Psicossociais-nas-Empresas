@@ -1,6 +1,6 @@
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".https://github.com/Sig602185/https-github.com-users-Sig602185-Ebook-Gest-o-Riscos-Psicossociais-nas-Empresas/blob/main/Capa%20Ebook%20Riscos%20psicossociais%20nas%20empresas.png">
 </p>
 
 
